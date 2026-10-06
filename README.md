@@ -31,3 +31,9 @@ This is SNOWMAN the more appropriate name for Hangman
 - Uses `if` statements to check guesses and difficulty
 - Uses `try/except` to handle invalid inputs
 - Updates and displays the hidden word as letters are guessed
+
+## Chalenges I faced
+- the hint revealed if the letter was repeated
+- hard coding took a long time
+## What I'd Improve with more time
+- Make a word bank function or have a different approach
